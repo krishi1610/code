@@ -3,12 +3,12 @@ import "./styles/Contact.css";
 import { config } from "../config";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
-import { useGSAP } from "@gsap/react";
+import { useEffect } from "react";
 
 gsap.registerPlugin(ScrollTrigger);
 
 const Contact = () => {
-  useGSAP(() => {
+  useEffect(() => {
     const contactTimeline = gsap.timeline({
       scrollTrigger: {
         trigger: ".contact-section",
