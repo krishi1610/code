@@ -17,8 +17,8 @@ export const config = {
     experiences: [
         {
             position: "Lead Network security Engineer ",
-            company: "SelectSkillSet",
-            period: "2024 - Present",
+            company: "Resilient Shield Cyber Solutions ",
+            period: "2024 - 2025",
             location: "Remote",
             description: "Developing modern, responsive frontend applications with focus on user experience and performance. Working with cutting-edge technologies to build scalable web solutions.",
             responsibilities: [
@@ -29,21 +29,7 @@ export const config = {
             ],
             technologies: ["React", "Next.js", "TailwindCSS", "JavaScript", "Framer Motion", "TypeScript"]
         },
-        {
-            position: "Full Stack Developer",
-            company: "Tekisky",
-            period: "2023 - 2024",
-            location: "Remote",
-            description: "Developed and maintained full-stack web applications, working on both frontend and backend systems. Collaborated with cross-functional teams to deliver robust software solutions.",
-            responsibilities: [
-                "Developed and maintained full-stack web applications using React, Node.js, and MongoDB",
-                "Implemented RESTful APIs and integrated third-party services",
-                "Built responsive user interfaces and optimized application performance",
-                "Worked on database design and backend architecture"
-            ],
-            technologies: ["React", "Node.js", "MongoDB", "Express", "JavaScript", "MERN Stack"]
-        }
-    ],
+       
     projects: [
         {
             id: 1,
