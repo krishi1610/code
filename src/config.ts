@@ -1,22 +1,22 @@
 export const config = {
     developer: {
-        name: "Huzaif",
-        fullName: "Huzaif Ahmed",
-        title: "Full Stack Developer",
-        description: "Full-stack builder creating digital experiences that respect humans and scale with clarity. Accessibility is my north star."
+        name: "Kunal",
+        fullName: "Kunal Kundanam",
+        title: "Software Engineer ",
+        description: "Business and Cyber Security Enthusiast.Python and Full-stack builder creating digital experiences that respect humans and scale with clarity. Accessibility is my north star."
     },
     social: {
-        github: "huzaifahmedz",
-        email: "dev.huzaif@gmail.com",
+        github: "krishi1610",
+        email: "kunalkundanam07@gmail.com",
         location: "India"
     },
     about: {
         title: "About Me",
-        description: "Full-stack builder creating digital experiences that respect humans and scale with clarity. Accessibility is my north star. I specialize in building modern web applications with React, Node.js, and cutting-edge technologies."
+        description: "Business and Cyber Security Enthusiast.Python and Full-stack builder creating digital experiences that respect humans and scale with clarity. Accessibility is my north star"
     },
     experiences: [
         {
-            position: "Frontend Developer",
+            position: "Lead Network security Engineer ",
             company: "SelectSkillSet",
             period: "2024 - Present",
             location: "Remote",
@@ -82,8 +82,8 @@ export const config = {
         }
     ],
     contact: {
-        email: "dev.huzaif@gmail.com",
-        github: "https://github.com/huzaifahmedz",
+        email: "kunalkundanam07@gmail.com",
+        github: "https://github.com/krishi1610",
         linkedin: "https://www.linkedin.com",
         twitter: "https://x.com",
         instagram: "https://www.instagram.com"
