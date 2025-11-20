@@ -74,7 +74,7 @@ const Navbar = () => {
           className="navbar-connect"
           data-cursor="disable"
         >
-          example@mail.com
+          kunalkundanm07@gmail.com
         </a>
         <ul>
           <li>
