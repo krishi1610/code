@@ -20,7 +20,7 @@ const Career = () => {
                   <h4>{exp.position}</h4>
                   <h5>{exp.company}</h5>
                 </div>
-                <h3>{exp.period.includes("Present") ? "NOW" : exp.period.split(" - ")[1]}</h3>
+                <h3>{exp.period.includes("Present") ? "2024 - 2025" : exp.period.split(" - ")[1]}</h3>
               </div>
               <p>{exp.description}</p>
             </div>
