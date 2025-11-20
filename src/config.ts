@@ -3,7 +3,7 @@ export const config = {
         name: "Kunal",
         fullName: "Kunal Kundanam",
         title: "Software Engineer ",
-        description: "Business and Cyber Security Enthusiast.Python and Full-stack builder creating digital experiences that respect humans and scale with clarity. Accessibility is my north star."
+        description: "Business    and    Cyber   Security   Enthusiast.    Python   and   Full-stack   builder   creating   digital   experiences that respect humans and scale with clarity. Accessibility is my north star."
     },
     social: {
         github: "krishi1610",
